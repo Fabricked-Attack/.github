@@ -26,7 +26,7 @@ This enables an attacker to perform arbitrary read and write operations within t
 This organization hosts the code, research data, and documentation associated with the Fabricked vulnerability.
 
 * [**`fabricked-attack.github.io`**](https://github.com/Fabricked-Attack/fabricked-attack.github.io): The source code for our informational landing page.
-* **`fabricked-poc`**: Proof-of-concept exploit code demonstrating the Infinity Fabric misconfiguration on AMD Zen 5 EPYC processors.
+* [**`fabricked-poc`**](https://github.com/Fabricked-Attack/PoC): Proof-of-concept exploit code demonstrating the Infinity Fabric misconfiguration on AMD Zen 5 EPYC processors.
 
 ## 📖 The Paper
 
